@@ -1,10 +1,4 @@
 wifi:
-  # Enable fallback hotspot (captive portal) in case wifi connection fails
-  ap:
-
-improv_serial:
-
-captive_portal:
 
 sensor:
   - platform: wifi_signal
